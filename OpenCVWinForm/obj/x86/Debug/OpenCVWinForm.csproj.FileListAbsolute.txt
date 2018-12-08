@@ -1,0 +1,40 @@
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\studyTE sem6\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\studyTE sem6\New folder\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\studyTE sem6\mp\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.write.1.tlog

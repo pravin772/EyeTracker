@@ -1,0 +1,13 @@
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Release\OpenCVWinForm.exe.config
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Release\OpenCVWinForm.exe
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Release\OpenCVWinForm.pdb
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Release\OpenCvSharp.Blob.dll
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Release\OpenCvSharp.dll
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Release\ResolveAssemblyReference.cache
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Release\OpenCVWinForm.MainForm.resources
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Release\OpenCVWinForm.Properties.Resources.resources
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Release\GenerateResource.read.1.tlog
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Release\GenerateResource.write.1.tlog
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Release\OpenCVWinForm.exe
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Release\OpenCVWinForm.pdb
